@@ -23,5 +23,5 @@
 2. Texto 2
 3. Texto 3
 
-[Esto es un link a Github] (www.github.com)
-![Logotipo de Github] (https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
+[Esto es un link a Github](www.github.com)
+![Logotipo de Github](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
