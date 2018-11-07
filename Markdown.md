@@ -28,3 +28,14 @@
 ----------
 
 ![Logotipo de Github](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
+
+>Texto que es una cita a otro texto que he sacado de otro lugar o que ha dicho una persona famosa
+
+`if (x = hola)
+{
+   y = hola que tal
+}
+else
+{
+   y = adios
+}`
