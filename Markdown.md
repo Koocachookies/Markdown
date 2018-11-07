@@ -31,11 +31,15 @@
 
 >Texto que es una cita a otro texto que he sacado de otro lugar o que ha dicho una persona famosa
 
-`if (x = hola)
+```
+if (x = hola)
 {
-   y = hola que tal
+   y = hola que tal;
 }
 else
 {
-   y = adios
-}`
+   y = adios;
+}
+```
+
+Esto ya no
