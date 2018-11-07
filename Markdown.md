@@ -3,6 +3,10 @@
 ### Texto
 #### Texto
 
+Texto de antes de la línea
+***
+Texto de después de la línea
+
 *Texto*
 
 **Texto**
@@ -23,6 +27,10 @@
 2. Texto 2
 3. Texto 3
 
+- [ ] Texto 1
+- [ ] Texto 2
+- [x] Texto 3
+
 [Esto es un link a Github](www.github.com)
 
 ----------
@@ -42,4 +50,8 @@ else
 }
 ```
 
-Esto ya no
+Primer título | Segundo título
+------------ | -------------
+Contenido celda 1 | Contenido celda 2
+Contenido celda 1 | Contenido celda 2
+
