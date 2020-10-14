@@ -9,5 +9,5 @@ Ejercicio Markdown, Wiki y Readme
 * lista2
 * lista3
 
-[![Tomatic](https://pbs.twimg.com/profile_images/649256113783836672/r30IvLdn_400x400.jpg)](http://www.google.es)
+[![Tomatic](https://github.com/Koocachookies/Markdown/blob/master/Wiki%20Resources/pokemon.png)](http://www.google.es)
 
